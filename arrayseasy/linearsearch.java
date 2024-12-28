@@ -1,5 +1,6 @@
 package arrays;
 //wap for linear search
+//it is for linear search
 public class p3 {
 	public static void linearsearch(int[] arr,int key) {
 		int index = -1;
